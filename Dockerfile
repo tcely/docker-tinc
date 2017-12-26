@@ -1,4 +1,4 @@
-FROM alpine:latest
+FROM alpine
 MAINTAINER tcely <tcely@users.noreply.github.com>
 
 RUN apk --no-cache add bash tinc
