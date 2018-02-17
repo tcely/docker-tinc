@@ -1,2 +1,2 @@
 # docker-tinc
-tincd based on Alpine Linux
+Docker image of tinc VPN daemon based on Alpine Linux
